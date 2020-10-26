@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\Users\Robinho\Desktop\Estudos\Hardware\Altium\Kit Rele V1\Project Outputs for Kit_Rele_v1\Generates pick and place files\Pick Place\[No Variations].txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/10/20
+Time:       12:04
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                Layer    Footprint         Center-X(mil) Center-Y(mil) Rotation Description                                                                                                    
+RL1        Relay                  TopLayer Relay             1149.567      401.142       180      "RELAY GEN PURPOSE SPDT 10A 5V"                                                                                
+R1         "Resistor 1K"          TopLayer R1206             1641.575      580.551       180      "RES SMD 1K OHM 5% 1/4W 1206"                                                                                  
+Q1         "Transistor NPN"       TopLayer Transistor_SOT-23 1635.275      338.268       0        "TRANS NPN 40V 0.2A SOT23"                                                                                     
+J1         "Terminal Block 1x3"   TopLayer Terminal_Block    229.252       389.291       90       "PHOENIX CONTACT - PT1,5/3-5.0-H - Wire-To-Board Terminal Block, 5 mm, 3 Ways, 26 AWG, 16 AWG, 1.5 mm², Screw" 
+D1         DIODE                  TopLayer DIODE_BAT54       1638.819      157.913       180      "Small Signal Schottky Diode, Single, 30 V, 200 mA, 800 mV, 600 mA, 150 C ;RoHS Compliant: Yes"                
+CON1       "CONN HEADER VERT 1x3" TopLayer CONN_HEADER       1873.425      387.205       90       "Board-To-Board Connector, Vertical, Wr-Phd Series, Through Hole, Header, 3, 2.54 Mm"                          

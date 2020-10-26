@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 09:13:26 On 23/10/2020
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Kit_Rele_v1_PCB.PcbDoc]
+   Generated File[[No Variations].step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 09:13:29 On 23/10/2020
